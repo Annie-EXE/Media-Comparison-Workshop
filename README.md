@@ -23,3 +23,10 @@ Each value should be a valid RSS URL.
 
 - Run `python extract.py` to download the initial data to a `.csv` file
 - Run `text_processing.ipynb` to clean and process the data, and identify semantic keywords for each article
+
+## Possible tasks
+
+- Look at word frequency
+- Look at sentiment of titles
+- Use headlines/keywords as input to an ML model
+- Topics/areas of concern
